@@ -1,0 +1,5 @@
+classes= 4
+train  = /home/ipvr/darknet/darknet/trainAdd/dataset_metal/train.txt  
+valid  = /home/ipvr/darknet/darknet/trainAdd/dataset_metal/test.txt  
+names = cfg/train_metal.names
+backup = /home/ipvr/darknet/darknet/backup/metal
